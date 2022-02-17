@@ -5,9 +5,7 @@ Réalisation d'un formulaire d'inscription à une newsletter connecté à l'API 
 
 - API version: 3.0.0
 
-Pour plus d'informations, s'il vous plaît visitez [https://account.sendinblue.com/support](https://account.sendinblue.com/support)
-
-Officel SendinBlue V3, allez sur : https://github.com/sendinblue/APIv3-php-library
+Pour plus d'informations sur SendinBlue V3, allez sur : https://github.com/sendinblue/APIv3-php-library
 
 Pour consulter la documentation concernant les développeurs : https://developers.sendinblue.com/
 
