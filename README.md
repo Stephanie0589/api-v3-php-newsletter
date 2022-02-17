@@ -1,5 +1,5 @@
 
-# SendinBlue's API v3 Php
+# SendinBlue's API v3 Php Newsletter
 
 Réalisation d'un formulaire d'inscription à une newsletter connecté à l'API Sendinblue.
 
