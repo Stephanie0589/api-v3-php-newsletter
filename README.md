@@ -22,6 +22,7 @@ composer require sendinblue/api-v3-sdk "6.x.x"
 Faire en plus :
 * ajouter ``composer require guzzlehttp/guzzle:^6.0 ``
 * ajouter ``composer require guzzlehttp/psr7 ``
+* ajouter ``composer install `` (facultatif)
 
 ## Getting Started
 
