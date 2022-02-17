@@ -11,7 +11,7 @@ Pour consulter la documentation concernant les développeurs : https://developer
 
 ## Requirements
 
-PHP 5.6 et versions antérieurs et PHP 7.0
+PHP 5.6 et versions antérieures et PHP 7.0
 
 ## Installation & Usage
 ### Composer
