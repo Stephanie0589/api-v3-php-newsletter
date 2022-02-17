@@ -1,7 +1,7 @@
 
 # SendinBlue's API v3 Php
 
-Réalisation d'un formulaire d'inscription à une newsletter connecté à l'API Sendinblue
+Réalisation d'un formulaire d'inscription à une newsletter connecté à l'API Sendinblue.
 
 - API version: 3.0.0
 
