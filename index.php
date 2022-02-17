@@ -30,7 +30,7 @@ if (isset($_POST['submit'])) {
             return $e->getMessage();
         }
 
-        // Redirection sur la page de confirmation
+        // Redirection vers la page de confirmation
         header("Location: confirmation.php");
     }
     else {
