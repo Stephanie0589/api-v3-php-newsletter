@@ -20,7 +20,7 @@ PHP 5.6 et versions ultérieures
 composer require sendinblue/api-v3-sdk "8.x.x"
 ```
 Faire en plus :
-* ajouter : `` composer install `` 
+* ajouter les dépendances : `` composer install `` 
 * ajoutez le chargeur automatique à votre application avec cette ligne : `` require("vendor/autoload.php")  `` 
 
 ## Getting Started
