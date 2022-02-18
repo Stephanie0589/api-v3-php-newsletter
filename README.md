@@ -11,18 +11,16 @@ Pour consulter la documentation concernant les développeurs : https://developer
 
 ## Requirements
 
-PHP 5.6 et versions antérieures et PHP 7.0
+PHP 5.6 et versions ultérieures 
 
 ## Installation & Usage
 ### Composer
 
 ```
-composer require sendinblue/api-v3-sdk "6.x.x"
+composer require sendinblue/api-v3-sdk "8.x.x"
 ```
 Faire en plus :
-* ajouter ``composer require guzzlehttp/guzzle:^6.0 ``
-* ajouter ``composer require guzzlehttp/psr7 ``
-* ajouter ``composer install `` (falcultatif)
+* ajouter ``composer install `` 
 
 ## Getting Started
 
